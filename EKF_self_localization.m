@@ -1,3 +1,6 @@
+% SPDX-FileCopyrightText: 2022 Haruki SHIMOTORI 　　　　　
+% SPDX-License-Identifier: MIT
+
 % --------------main-----------------%
 % Initialize
 hold off
