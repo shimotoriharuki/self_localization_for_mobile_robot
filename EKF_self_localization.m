@@ -28,13 +28,9 @@ global Rt  %input error
 Rt = [0, 0;
       0, 0];
 global a;
-global fake_a;
 a = [0.1, 0.1, 0.1, 0.1]; %[a1, a2, a3, a4]
-fake_a = [0.05, 0.05, 0.05, 0.05]; %[a1, a2, a3, a4]
 global Qt %observe error
-global fake_Qt %fake observe error
 Qt = 0.001 ^2; %観測ノイズ共分散
-fake_Qt = 0.005 ^2;
 
 
 % Position init
