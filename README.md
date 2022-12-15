@@ -7,6 +7,7 @@ I have implemented the algorithm in this paper.
 [![](https://img.youtube.com/vi/_srKBIExjmA/0.jpg)](https://www.youtube.com/watch?v=_srKBIExjmA)
 
 # LICENSE
-Copyright 2022 Haruki SHIMOTORI
 
 This repository is released under the MIT License, see [LICENSE](https://github.com/shimotoriharuki/self_localization_for_mobile_robot/blob/master/LICENSE).
+
+© Copyright 2022 Haruki SHIMOTORI
